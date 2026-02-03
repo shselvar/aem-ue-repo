@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ue-eds-sharon/:/",
-    "/content/ue-eds-sharon/configuration:/.helix/config.json",
-    "/content/ue-eds-sharon/metadata:/metadata.json"
+    "/content/aem-ue-sharon/:/",
+    "/content/aem-ue-sharon/configuration:/.helix/config.json",
+    "/content/aem-ue-sharon/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ue-eds-sharon/"
+    "/content/aem-ue-sharon/"
   ]
 }
